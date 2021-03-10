@@ -1,0 +1,5 @@
++your_phone_with_ddd
+api_id
+api_hash
+max_sleep_seconds
+min_sleep_seconds
